@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/mavlink/mavlink/workflows/Test%20and%20deploy/badge.svg)](https://github.com/mavlink/mavlink/actions?query=branch%3Amaster)
+[![Test and deploy](https://github.com/Midgrad/mavlink/actions/workflows/test_and_deploy.yml/badge.svg)](https://github.com/Midgrad/mavlink/actions/workflows/test_and_deploy.yml)
 
 ## MAVLink ##
 
