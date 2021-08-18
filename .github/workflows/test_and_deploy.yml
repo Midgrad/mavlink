@@ -76,7 +76,7 @@ jobs:
           ./scripts/test.sh node
 
   deploy:
-    name: Generate and push C headers
+    name: Generate and push Cpp11 headers
     needs: [format, python-tests, node-tests]
     runs-on: ubuntu-20.04
     if: github.ref == 'refs/heads/master'
